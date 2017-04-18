@@ -1,0 +1,3 @@
+#Week 2:
+
+This week I finished the main page of the website. I had to correct all little mistakes. I had to shape the code, update the copyright, add logos, delete section "Who's involved", add section "resources", add links and remove some other. I had to refine the website so that it was ready to be online.
