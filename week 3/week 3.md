@@ -1,0 +1,5 @@
+#Week 3:
+
+This week I finished the main page of the website. I had to correct all little mistakes and to validate the website by W3C which verifies that the website meets the standards. I had to shape the code, update the copyright, add logos, delete section "Who's involved", add section "resources", add links and remove some other. I had to refine the website so that it was ready to be online. I had to clean the repository, and make it clean.
+
+This week I had to change all icons and image from the main page because of their licences. I had to search image and icons with MIT licence. I use glyphicons and ionicons for icons and I find images on pixabay. When I finish it I begin a new page . This time for CDT Project. I had to create a carousel with bootstrap and add gif on it. I continue too the page "Who use it" for January project
