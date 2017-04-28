@@ -1,3 +1,3 @@
-#Week 2:
+# Week 2:
 
 This week I finished the main page of the website. I had to correct all little mistakes and to validate the website by W3C which verifies that the website meets the standards. I had to shape the code, update the copyright, add logos, delete section "Who's involved", add section "resources", add links and remove some other. I had to refine the website so that it was ready to be online. I had to clean the repository, and make it clean.

@@ -1,4 +1,4 @@
-#Day 2:
+# Day 2:
 Today we had to do different tasks.
 Mine consist to create a website dedicated to January project.
 I had to create an interface to put the project details like:

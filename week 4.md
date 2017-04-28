@@ -1,0 +1,4 @@
+# Week 4:
+
+This week i did the website for CDT project. I use bootstrap again for the CSS. I begin the website from 0. I made a carousel, it's like a big static banner where you can put images or text and it scroll by side. I spent a lot of time creating the GIF for the carousel. I had to take screenshots, ajust them, comment some and then create the GIF. I use Gimp for the image modifications.
+On Thursday we go to Diamond Lights company near Oxford. We saw the utilisation of January Project. We saw particule accelerator, with 1 kilometer of diameter. They use January because they get a lot of information when they do some experiences and they have to process large amounts of data.
