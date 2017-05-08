@@ -7,4 +7,5 @@ This week I manage to create a website with [Jekyll](https://jekyllrb.com/) . I 
 But I should obtain this:
 
 ![image](https://github.com/Jdarroy/Internship/blob/master/ressources/structure_base_jekyll.png)
+
 Jekyll use markdown file and create a website with it. It create a blog website, and it don't need a huge maintenance. When you have create the structure you just have to add your markdown file and Jekyll add it to the website. So this i work on Jekyll. I don't totaly understand how it work, espacialy for the design but I can do a basic Jekyll website.
