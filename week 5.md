@@ -14,6 +14,6 @@ Jekyll use markdown file and create a website with it. It create a blog website,
 
 I'm thinking I did a mistake because I don't have the correct architecture when I build a project. In fact, there is a difference because ther is two way to install jekyll. The first one is with the instruction "sudo apt-get install jekyll" and the second using ruby is "gem install jekyll". The difference between theese two instruction is, the first one install on older version of jekyll and the second install the last version. Most of tutorial and help for jekyll on the internet are for the older version, that's why I thought that I did a mistake somewhere and when I installed it on a linux I did the command "sudo apt-get install jekyll" so I obtain the older version.
 
-Now my first version of jekyll's website is [online](jdarroy.github.io) and look like this:
+Now my first version of jekyll's website is [online](https://jdarroy.github.io/) and look like this:
 
 ![image](https://github.com/Jdarroy/Internship/blob/master/ressources/jdarroy_github_io.png)
